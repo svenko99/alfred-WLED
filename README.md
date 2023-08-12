@@ -29,6 +29,9 @@ WLED Alfred workflow enables you to effortlessly control your WLED lights right 
 - Switch to "Chase" effect: `effects chase`
 - Choose preset with name "Blue": `presets Blue`
 
+![Effects](https://github.com/svenko99/alfred-WLED/blob/main/images/effects.png)
+![Presets](https://github.com/svenko99/alfred-WLED/blob/main/images/presets.png)
+
 ## License
 
 This project is licensed under the MIT License.
