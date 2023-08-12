@@ -4,7 +4,7 @@
 
 ## Introduction
 
-WLED Alfred workflow enables you to effortlessly control your WLED lights right from your Alfred interface. With this workflow, you can toggle the lights on/off, change colors, switch effects, and choose presets with ease.
+WLED Alfred workflow enables you to effortlessly control your [WLED](https://kno.wled.ge/) lights right from your Alfred interface. With this workflow, you can toggle the lights on/off, change colors, switch effects, and choose presets with ease.
 
 ## Features
 
