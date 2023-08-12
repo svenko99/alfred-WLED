@@ -16,7 +16,7 @@ WLED Alfred workflow enables you to effortlessly control your WLED lights right 
 
 ## Installation
 
-1. Download the workflow from the [⤓ GitHub repository]().
+1. Download the workflow from the [⤓ GitHub repository](https://github.com/svenko99/alfred-WLED/releases/latest/download/WLED.alfredworkflow).
 2. Double-click the downloaded file to install it in Alfred.
 3. Put your WLED IP address in `Configure Workflow...` in Alfred (e.g. 192.168.1.23).
 
