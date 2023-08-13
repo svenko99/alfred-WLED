@@ -10,8 +10,8 @@ WLED Alfred workflow enables you to effortlessly control your [WLED](https://kno
 
 - **Toggle Lights**: Type `toggle` to turn the lights on/off.
 - **Change Color**: Type `color <color_name> or <hex>` to change the color of your lights
-- **Switch Effects**: Type `effects` to switch to a specific effect
-- **Choose Preset**: Type `presets` to switch to a specific preset
+- **Switch Effects**: Type `effects <effect_name>` to switch to a specific effect
+- **Choose Preset**: Type `presets <preset_name>` to switch to a specific preset
 - **Open WLED Web Interface**: Type `wled` to open the WLED web interface in your browser
 
 ## Installation
